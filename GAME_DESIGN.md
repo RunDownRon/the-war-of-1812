@@ -55,7 +55,7 @@ Built as a browser-based game, eventually packaged as a downloadable desktop app
 - Gulf of St. Lawrence
 - Atlantic Coast (North)
 - Atlantic Coast (South)
-- Gulf of Mexico
+- North Atlantic (British supply and reinforcement route — French navy can disrupt)
 
 **Victory Cities:**
 - York (Toronto)
@@ -64,19 +64,6 @@ Built as a browser-based game, eventually packaged as a downloadable desktop app
 - Detroit
 - Washington D.C.
 - New Orleans
-
-### European Theater
-
-**Land Territories:**
-- Britain (home island)
-- France / Napoleonic Empire
-- Iberian Peninsula
-- Central Europe
-
-**Naval Zones:**
-- English Channel
-- North Atlantic (connects both theaters)
-- Mediterranean
 
 ---
 
@@ -275,12 +262,27 @@ Winter penalties scale by how far north the territory is:
 
 ---
 
-## Two Theater Strategy
+## The Atlantic Supply Line
 
-Britain must manage resources across both continents:
-- The more Britain commits to fighting Napoleon in Europe, the less it can send to Canada
-- France and America share a common enemy in Britain but are not formal allies
-- The North Atlantic naval zone connects both theaters — control of it matters
+There is no European map. Europe is represented as a background pressure track that affects how much Britain can send to Canada each turn.
+
+### Napoleon Pressure Track
+| Pressure Level | British Convoy | Notes |
+|---|---|---|
+| High | Minimal | Napoleon winning — Britain can barely spare anything |
+| Medium | Small but steady | Stalemated in Europe |
+| Low | Meaningful reinforcements | Napoleon retreating |
+| Napoleon Defeated (1814) | Full reinforcements | Britain finally sends real troops to Canada |
+
+### French Navy
+- France can disrupt the North Atlantic supply route
+- Successful French naval action delays or reduces British convoys
+- Gives France a meaningful role without needing a European map
+
+### Strategic Implications
+- Americans need to win before 1814 or British reinforcements start arriving in force
+- Canada largely defends itself in the early game — historically accurate
+- Late game shifts significantly once Napoleon is defeated
 
 ---
 
