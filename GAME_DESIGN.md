@@ -25,10 +25,10 @@ Built as a browser-based game, eventually packaged as a downloadable desktop app
 - Central to the economic fur trade in the northern territories
 - Their effectiveness rises and falls based on how fairly they are treated
 
-### French / Napoleonic Empire
-- Active in the European theater
-- Fighting Britain on a second front
-- Forces Britain to split resources between Europe and North America
+### France (Background Factor — not a playable faction)
+- Not on the map — represented as a background modifier
+- Reduces the size of British annual convoys in early years
+- Napoleon's defeat in 1814 triggers larger British convoys to Canada
 
 ---
 
@@ -55,7 +55,7 @@ Built as a browser-based game, eventually packaged as a downloadable desktop app
 - Gulf of St. Lawrence
 - Atlantic Coast (North)
 - Atlantic Coast (South)
-- North Atlantic (British supply and reinforcement route — French navy can disrupt)
+- North Atlantic (British annual convoy route)
 
 **Victory Cities:**
 
@@ -66,6 +66,8 @@ Built as a browser-based game, eventually packaged as a downloadable desktop app
 - Quebec City
 - Kingston (main British naval base on Lake Ontario)
 - Niagara (key border crossing, heavily contested)
+- Queenston Heights (where Isaac Brock fell — significant early British victory)
+- Lundy's Lane (one of the bloodiest battles of the war, Niagara corridor)
 
 *American:*
 - Detroit
@@ -272,27 +274,28 @@ Winter penalties scale by how far north the territory is:
 
 ---
 
-## The Atlantic Supply Line
+## The Annual British Convoy
 
-There is no European map. Europe is represented as a background pressure track that affects how much Britain can send to Canada each turn.
+There is no European map. Once per year (every 8 turns) a British convoy arrives delivering troops, ships, and supplies. The size reflects how much Britain could spare while dealing with Napoleon.
 
-### Napoleon Pressure Track
-| Pressure Level | British Convoy | Notes |
+### Convoy Schedule
+| Year | Convoy Size | Reason |
 |---|---|---|
-| High | Minimal | Napoleon winning — Britain can barely spare anything |
-| Medium | Small but steady | Stalemated in Europe |
-| Low | Meaningful reinforcements | Napoleon retreating |
-| Napoleon Defeated (1814) | Full reinforcements | Britain finally sends real troops to Canada |
+| 1812 | Small | Napoleon at full strength — Britain barely spares anything |
+| 1813 | Small | Still tied up in Europe |
+| 1814 | Large | Napoleon defeated — Britain cuts loose |
+| 1815 | Massive | Full British military now available |
 
-### French Navy
-- France can disrupt the North Atlantic supply route
-- Successful French naval action delays or reduces British convoys
-- Gives France a meaningful role without needing a European map
+### Contents of Each Convoy
+- Infantry and artillery units
+- Naval vessels
+- Supply resources
+- Occasionally a named hero or special unit
 
 ### Strategic Implications
-- Americans need to win before 1814 or British reinforcements start arriving in force
 - Canada largely defends itself in the early game — historically accurate
-- Late game shifts significantly once Napoleon is defeated
+- Americans need to make serious gains before 1814 or the game tilts heavily toward Britain
+- Late game shifts dramatically once the full British military becomes available
 
 ---
 
