@@ -58,12 +58,22 @@ Built as a browser-based game, eventually packaged as a downloadable desktop app
 - North Atlantic (British supply and reinforcement route — French navy can disrupt)
 
 **Victory Cities:**
+
+*Canadian / British:*
 - York (Toronto)
 - Montreal
+- Hull
 - Quebec City
+- Kingston (main British naval base on Lake Ontario)
+- Niagara (key border crossing, heavily contested)
+
+*American:*
 - Detroit
 - Washington D.C.
 - New Orleans
+- Sackett's Harbour (main American naval base on Lake Ontario)
+- Plattsburgh (key northern New York)
+- Baltimore (famously attacked by British — Star Spangled Banner)
 
 ---
 
