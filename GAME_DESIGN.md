@@ -214,6 +214,67 @@ A cautionary outcome.
 
 ---
 
+## Seasons & Weather
+
+### Season Cycle
+Every 2 turns the season changes. A full year = 8 turns. Full game = ~24 turns (1812-1815).
+
+```
+Turns 1-2  → Summer
+Turns 3-4  → Autumn
+Turns 5-6  → Winter
+Turns 7-8  → Spring
+Turns 9-10 → Summer
+...and so on
+```
+
+### Season Effects
+
+**Summer (turns 1-2)**
+- Full movement for all units
+- No supply penalties
+- Best time to launch major offensives
+
+**Autumn (turns 3-4)**
+- Movement slightly reduced
+- Build supply depots and prepare for winter
+- Creates urgency — push now or wait until spring
+
+**Winter (turns 5-6)**
+- Movement heavily reduced
+- Exposed American units take attrition damage every turn
+- Supply drains faster
+- Indigenous warriors and British/Canadians unaffected in home territory
+- Long-marched armies arrive in terrible condition
+
+**Spring (turns 7-8)**
+- Recovery season
+- Units slowly regain strength
+- Supply lines reopen
+- Both sides regroup and plan
+
+### Regional Winter Severity Zones
+
+Winter penalties scale by how far north the territory is:
+
+| Zone | Region | Winter Effect |
+|---|---|---|
+| Zone 1 | Northern Territories, Upper Canada | Brutal — blizzards possible, units lose health every turn |
+| Zone 2 | Great Lakes, Lower Canada | Harsh — significant penalties for unprepared armies |
+| Zone 3 | Mid-Atlantic, American Northeast | Cold — moderate penalties, manageable with supply |
+| Zone 4 | The South (Tennessee, Georgia, Louisiana) | Mild — minimal penalties |
+| Zone 5 | Florida, Gulf Coast | None — essentially no winter penalties |
+
+### Supply & Attrition
+- Every army has a supply level
+- Long marches drain supply
+- Winter drains supply faster
+- Units that run out of supply take attrition damage before combat
+- British/Canadians have supply advantages in home territory
+- Americans marching from Kentucky arrive weakened — worse in winter
+
+---
+
 ## Two Theater Strategy
 
 Britain must manage resources across both continents:
